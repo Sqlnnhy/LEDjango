@@ -1,4 +1,4 @@
-python>=2.7.13
+python>=2.7.11
 django>=1.8.17
 gevent>=1.2.2
 leancloud-sdk>=1.12.0
